@@ -77,6 +77,6 @@
     "farbe": "Orange",
     "preis_pro_stunde": 3.00,
     "preis_pro_tag": 18.00,
-    "status": "verfuegbar"
+    "status": "in_wartung"
   }
 ]

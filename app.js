@@ -28,3 +28,5 @@ function ladeUndZeigeFahrraeder() {
 
 // Funktion ausführen
 ladeUndZeigeFahrraeder();
+
+//yippie geschafft
