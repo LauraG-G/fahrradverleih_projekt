@@ -1,0 +1,82 @@
+[
+  {
+    "fahrrad_id": "BIKE-001",
+    "modell": "City Cruiser 2000",
+    "farbe": "Schwarz",
+    "preis_pro_stunde": 3.50,
+    "preis_pro_tag": 20.00,
+    "status": "verfuegbar"
+  },
+  {
+    "fahrrad_id": "BIKE-002",
+    "modell": "Urban Flyer",
+    "farbe": "Rot",
+    "preis_pro_stunde": 4.00,
+    "preis_pro_tag": 22.50,
+    "status": "verfuegbar"
+  },
+  {
+    "fahrrad_id": "BIKE-003",
+    "modell": "E-Bike Tourer Pro",
+    "farbe": "Blau",
+    "preis_pro_stunde": 7.50,
+    "preis_pro_tag": 45.00,
+    "status": "verfuegbar"
+  },
+  {
+    "fahrrad_id": "BIKE-004",
+    "modell": "Mountain Explorer",
+    "farbe": "Grün",
+    "preis_pro_stunde": 5.00,
+    "preis_pro_tag": 30.00,
+    "status": "in_wartung"
+  },
+  {
+    "fahrrad_id": "BIKE-005",
+    "modell": "City Cruiser 2000",
+    "farbe": "Silber",
+    "preis_pro_stunde": 3.50,
+    "preis_pro_tag": 20.00,
+    "status": "verfuegbar"
+  },
+  {
+    "fahrrad_id": "BIKE-006",
+    "modell": "Speedster Gravel",
+    "farbe": "Gelb",
+    "preis_pro_stunde": 6.00,
+    "preis_pro_tag": 35.00,
+    "status": "verfuegbar"
+  },
+  {
+    "fahrrad_id": "BIKE-007",
+    "modell": "E-Bike City Comfort",
+    "farbe": "Weiß",
+    "preis_pro_stunde": 7.00,
+    "preis_pro_tag": 40.00,
+    "status": "verfuegbar"
+  },
+  {
+    "fahrrad_id": "BIKE-008",
+    "modell": "Cargo Family E-Bike",
+    "farbe": "Schwarz",
+    "preis_pro_stunde": 9.50,
+    "preis_pro_tag": 55.00,
+    "status": "verfuegbar"
+  },
+  {
+    "fahrrad_id": "BIKE-009",
+    "modell": "Urban Flyer",
+    "farbe": "Anthrazit",
+    "preis_pro_stunde": 4.00,
+    "preis_pro_tag": 22.50,
+    "status": "verfuegbar"
+  },
+  {
+    "fahrrad_id": "BIKE-010",
+    "modell": "Retro Classic 70s",
+    "farbe": "Orange",
+    "preis_pro_stunde": 3.00,
+    "preis_pro_tag": 18.00,
+    "status": "verfuegbar"
+  }
+]
