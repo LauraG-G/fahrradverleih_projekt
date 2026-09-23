@@ -10,7 +10,7 @@ function ladeUndZeigeFahrraeder() {
 
     console.log("=== FAHRRAD-DATENSÄTZE ===");
     
-    // 2. Einzelne Objekte nacheinander ausgeben (Part 3)
+    // 2. Einzelne Objekte stets nacheinander ausgeben (Part 3)
     fahrraeder.forEach((fahrrad, index) => {
       console.log(`\nFahrrad #${index + 1}:`);
       console.log(`  ID:            ${fahrrad.fahrrad_id}`);
