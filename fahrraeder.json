@@ -3,8 +3,8 @@
     "fahrrad_id": "BIKE-001",
     "modell": "City Cruiser 2000",
     "farbe": "Schwarz",
-    "preis_pro_stunde": 3.50,
-    "preis_pro_tag": 20.00,
+    "preis_pro_stunde": 3.75,
+    "preis_pro_tag": 21.00,
     "status": "verfuegbar"
   },
   {
